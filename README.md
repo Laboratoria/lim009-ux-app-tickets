@@ -23,3 +23,25 @@ Como parte del reto, Teleticket nos ha pedido que hagamos lo siguiente:
   * Elegir un proceso/flujo para re-diseñar
   * Crear y testear el flujo de la plataforma
   * Presentar 2 propuestas de diseño para ese flujo en versión mobile o crear una propuesta con versión mobile y versión desktop. Para realizar tu propuesta de diseño puedes usar [esta guía de estilos de Material Design](https://material.5ly.co/), recuerda que si crear nuevos componentes debes agregarlos a la guía de estilos
+  
+## Entrega
+
+El proyecto será entregado en un repositorio de GitHub. En él deberás agregar lo siguiente:
+
+README.md  explicando el proceso del proyecto:
+* Objetivos del proyecto
+* Definición de la solución/producto
+* Link a prototipo navegable
+* Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto. 
+* Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final.
+* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus diseños con desarrolladores.
+
+Un video en [Loom](https://www.useloom.com/) de máximo 5 minutos explicando tu documento.
+* Estos 5 minutos tienes que utilizarlos para explicar los puntos indicados en el `README.md` y para hacer un demo de la solución.
+
+En las otras carpetas del repositorio o en las carpetas de Google Drive podrás agregar los documentos complementarios que sustenten tu proceso:
+
+* Fotos, videos, guías de las actividades que realizaste
+* Flujo de usuario
+* Mapa de sitio
+* Etc.
